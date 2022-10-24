@@ -30,7 +30,7 @@ We also produced [this website](https://hrtprescriptions.github.io/getthedata/) 
 
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories written by partners based on this research included:
 
-- National World: [World Menopause Day: HRT shortages in parts of England leaves women to ‘suffer in silence’]([https://www.birminghammail.co.uk/black-country/nhs-facing-workforce-crisis-service-24706258](https://www.nationalworld.com/health/world-menopause-day-hrt-shortages-england-women-suffer-silence-3883633)) *18 October 2022*
+- National World: [World Menopause Day: HRT shortages in parts of England leaves women to ‘suffer in silence’](https://www.nationalworld.com/health/world-menopause-day-hrt-shortages-england-women-suffer-silence-3883633)) *18 October 2022*
 - Rochdale Online: [Local CCG spent 40% less on menopause Hormone Replacement Therapy per woman than CCG which spent most](https://www.rochdaleonline.co.uk/news-features/2/news-headlines/148560/local-ccg-spent-40pc-less-on-menopause-hormone-replacement-therapy-per-woman-than-ccg-which-spent-most) *18 October 2022
 - Warrington Guardian: [Women in Warrington receive less than £13 each in menopause treatment](https://www.warringtonguardian.co.uk/news/23060544.warrington-women-get-less-13-menopause-treatment/) *22 October 2022
 - Spalding Today: [Lincolnshire menopausal women suffering in silence as just £10.11 spent on HRT](https://www.spaldingtoday.co.uk/news/many-women-with-menopause-are-suffering-in-silence-9280183/) *22 October 2022
