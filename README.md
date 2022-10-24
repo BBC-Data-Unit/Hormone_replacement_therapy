@@ -1,2 +1,1 @@
-# hormone_replacement_therapy
-Our investigation uncovered a postcode lottery in HRT provision across the country
+# Postcode lottery of menopause care revealed
