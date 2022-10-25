@@ -37,6 +37,8 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 - Yorkshire Evening Post: [Leeds menopause expert 'not surprised' by figures showing extent of HRT inequality across NHS CCGs](https://www.yorkshireeveningpost.co.uk/health/leeds-menopause-expert-not-surprised-by-figures-showing-extent-of-hrt-inequality-across-nhs-ccgs-3884957) *20 October 2022
 - Southern Daily Echo: [Southampton woman left 'fighting' for access to HRT](https://www.dailyecho.co.uk/news/23055648.gg/) *19 October 2022
 - Worcester News: [Women face postcode lottery for menopause care](https://www.worcesternews.co.uk/news/23061715.women-face-postcode-lottery-menopause-care/) *20 October 2022
+- Suffolk News: [West Suffolk CCG spends most money on menopause Hormone Replacement Therapy per woman as experts hit out at lack of options](https://www.suffolknews.co.uk/bury-st-edmunds/news/experts-hit-out-at-a-postcode-lottery-of-menopause-care-9279421/) *18 October 2022
+- The Stray Ferret: [North Yorkshire spends twice as much as other areas on HRT, figures show](https://thestrayferret.co.uk/north-yorkshire-spends-twice-as-much-as-other-areas-on-hrt-figures-show/) *18 October 2022
 
 # BBC usage
 
