@@ -37,3 +37,24 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 - Yorkshire Evening Post: [Leeds menopause expert 'not surprised' by figures showing extent of HRT inequality across NHS CCGs](https://www.yorkshireeveningpost.co.uk/health/leeds-menopause-expert-not-surprised-by-figures-showing-extent-of-hrt-inequality-across-nhs-ccgs-3884957) *20 October 2022
 - Southern Daily Echo: [Southampton woman left 'fighting' for access to HRT](https://www.dailyecho.co.uk/news/23055648.gg/) *19 October 2022
 - Worcester News: [Women face postcode lottery for menopause care](https://www.worcesternews.co.uk/news/23061715.women-face-postcode-lottery-menopause-care/) *20 October 2022
+
+# BBC usage
+
+Nations and Regions TV packages:
+
+- BBC West Midlands
+- BBC North East
+- BBC East Midlands
+- BBC South Today (Oxford)
+- BBC South Today (Southampton)
+
+Local radio two-ways:
+
+- BBC Cornwall
+- BBC Cumbria
+- BBC Devon
+- BBC Lancashire
+- BBC Newcastle 
+- BBC Oxford
+- BBC Shropshire
+- BBC Surrey
