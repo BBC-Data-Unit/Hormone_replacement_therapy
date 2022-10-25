@@ -39,6 +39,8 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 - Worcester News: [Women face postcode lottery for menopause care](https://www.worcesternews.co.uk/news/23061715.women-face-postcode-lottery-menopause-care/) *20 October 2022
 - Suffolk News: [West Suffolk CCG spends most money on menopause Hormone Replacement Therapy per woman as experts hit out at lack of options](https://www.suffolknews.co.uk/bury-st-edmunds/news/experts-hit-out-at-a-postcode-lottery-of-menopause-care-9279421/) *18 October 2022
 - The Stray Ferret: [North Yorkshire spends twice as much as other areas on HRT, figures show](https://thestrayferret.co.uk/north-yorkshire-spends-twice-as-much-as-other-areas-on-hrt-figures-show/) *18 October 2022
+- Malvern Gazette: [Women face postcode lottery for menopause care](https://www.malverngazette.co.uk/news/23061715.women-face-postcode-lottery-menopause-care/) *20 October 2022
+- Ledbury reporter: [Women face postcode lottery for menopause care](https://www.ledburyreporter.co.uk/news/23061715.women-face-postcode-lottery-menopause-care/) *20 October 2022
 
 # BBC usage
 
